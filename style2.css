@@ -94,21 +94,23 @@ a{
     text-transform: uppercase;
     font-weight: 400;
     font-size: 18px;
-    color: #212930;
+    color: black;
 }
 
 
 .info-box-full {
-    background: rgba(255, 255, 255, .8);
-    width: 50%;
+    background: rgba(90, 90, 80, 0.4);
+    width: 85%;
     display: block;
     margin: auto;
     margin-top: 12px;
     padding: 10px;
+    color: black;
 }
 
 .info-box-full img {
-    width: 100%;
+    width: 70%;
+    padding-left: 98.9px;
 }
 
 .info-box-full h3 {
